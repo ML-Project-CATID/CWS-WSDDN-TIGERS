@@ -1,3 +1,4 @@
+##@author: Chandan Pandey
 ##code to create a name mapping between files (for example, Bhadra_BMR0dot8_20060407_181600_2.jpg to 000001.jpg)
 ##The output will be a csv file containing the above mentioned mapping
 ##The output csv will be used in Create-text-files.R script for renaming the image names to the mapped label in the respective text files
