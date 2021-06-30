@@ -1,3 +1,4 @@
+#@author: Abheeshta Rao
 # This code is used for generating text files equal to the number of classes
 # Each text file will contain the names of images belonging to that class fllowed by 1 (for example, Bhadra_BMR0dot8_20060407_181600_L 1)
 # Each text file will also contain names of rest of the images followed by -1 (for example, Nagarahole_BZR1dot9_20111223_235900_R -1)
