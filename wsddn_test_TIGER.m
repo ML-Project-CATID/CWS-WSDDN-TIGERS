@@ -1,5 +1,6 @@
 function [dets] = wsddn_test_TIGER(newmode,varargin)
 % @author: Rita Pucci
+%Modified by: Yogesh Purushotham and Abheeshta Rao
 % wsddn_test : this script evaluates detection performance in Tiger
 % Individual Identification dataset for given a WSDDN model
 
