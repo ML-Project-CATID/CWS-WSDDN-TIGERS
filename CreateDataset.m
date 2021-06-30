@@ -1,6 +1,6 @@
 function CreateDataset()
 % @author: Rita Pucci
-% Modified by: Yogesh Purushotam and Abheeshta Rao
+% Modified by: Yogesh Purushotham and Abheeshta Rao
 % wsddn CreateDataset : this organise the dataset in order to be used with wsddn 
 % Individual Identification dataset for given a WSDDN model
 
