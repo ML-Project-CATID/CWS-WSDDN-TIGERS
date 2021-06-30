@@ -1,3 +1,5 @@
+##@author: Chandan Pandey
+##Modified by: Abheeshta Rao
 ##This code is used for renaming the image name with image label in very text file using the mapped.csv
 ## The output text files will be used as input in the WSDDN_test_TIGER.m script
 main_dir=c('D:/WSDDN New/textfiles/')
