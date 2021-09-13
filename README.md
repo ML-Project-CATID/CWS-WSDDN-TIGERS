@@ -1,4 +1,4 @@
-# CWS-WSDDN-TIGERS
+# WSDDN-TIGERS
 This pipeline can be used for running pattern recognition algorithm on dataset of tiger images and identify unique tigers from a database of tiger images
 for any query related to the code please contact:-
 
