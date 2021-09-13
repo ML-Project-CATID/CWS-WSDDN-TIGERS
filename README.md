@@ -5,7 +5,7 @@ The trained model can be downloaded using the link below
 
 https://1drv.ms/u/s!AogSW9_9YVqRhb1r3UtuGeeSr-AXuw?e=SRbYdY
 
-The trainned model will be in the folder, named net-epoch-15.mat. 
+The trained model will be in the folder, named net-epoch-15.mat. 
 
 For any query related to this model and codes please contact:-
 
