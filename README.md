@@ -1,19 +1,18 @@
 # WSDDN-TIGERS
-This pipeline can be used for running pattern recognition algorithm on dataset of tiger images and identify unique tigers from a database of tiger images
-for 
+WSDDN model for individual tiger identification. 
 
-Any query related to the code please contact:-
+For any query related to this model and codes please contact:-
 
 Dr Kartic Subr {Kartic Subr <kartic@gmail.com>}{https://homepages.inf.ed.ac.uk/ksubr/}
 and 
 Dr. Rita Pucci {rita.pucci85@gmail.com}
 
 
-The trained model can be downloaded using following link
+The trained model can be downloaded using the link below
 
 https://1drv.ms/u/s!AogSW9_9YVqRhb1r3UtuGeeSr-AXuw?e=SRbYdY
 
-The final trainnned model will be in the folder, named net-epoch-15.mat. Download that file as final trainned model. 
+The trainned model will be in the folder, named net-epoch-15.mat. 
 
 
 
