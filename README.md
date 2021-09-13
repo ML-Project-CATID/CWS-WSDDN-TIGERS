@@ -11,9 +11,8 @@ The trained model can be downloaded using following link
 
 https://1drv.ms/u/s!AogSW9_9YVqRhb1r3UtuGeeSr-AXuw?e=SRbYdY
 
-In addition to this, the model after final epoch {15} is added to the repository woth name 
+The final trainnned model will be in the folder, named net-epoch-15.mat. Download that file as final trainned model. 
 
-net-epoch-15.mat
 
 
 
