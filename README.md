@@ -7,3 +7,14 @@ and
 Dr. Rita Pucci {rita.pucci85@gmail.com}
 
 
+The trained model can be downloaded using following link
+
+https://1drv.ms/u/s!AogSW9_9YVqRhb1r3UtuGeeSr-AXuw?e=SRbYdY
+
+In addition to this, the model after final epoch {15} is added to the repository woth name 
+
+net-epoch-15.mat
+
+
+
+
